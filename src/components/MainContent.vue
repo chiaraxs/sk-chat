@@ -33,7 +33,7 @@
                     Hi, I'm Supernova and I can help you writing. What I can write for you?
                   </p>
                   <a href="#" class="link-secondary fw-bold">
-                    Let's have some inspiration
+                    Let's have some inspiration.
                   </a>
                 </div>
               </div>
